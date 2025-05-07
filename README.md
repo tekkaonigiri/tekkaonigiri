@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm Nicole, an incoming college freshman, interested in UI/UX design and the mathematical aspects of Computer Science and AI.<br><br>I work primarily in frontend development, creating iOS apps and designing web apps. However, I would love to expand my knowledge in computer hardware and networks.
+Hello! I'm Nicole, an incoming college freshman studying Computer Science and Engineering, interested in UI/UX design and the mathematical aspects of Computer Science and AI.<br><br>I work primarily in frontend development, creating iOS apps and designing web apps. However, I would love to expand my knowledge in computer hardware and networks.
 
 
 # 💻 Tech Stack:
