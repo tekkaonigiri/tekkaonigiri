@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I’m Nicole! I am a first-year Artificial Intelligence major at UCSD (woohoo! go tritons). I am interested in UI/UX design and the mathematical aspects of Computer Science and AI. I am most familiar with frontend development, but would love to expand my knowledge in machine learning and robotics.
+Hello! I’m Nicole! I am a first-year Artificial Intelligence major at UCSD (woohoo! go tritons). I am interested in the mathematical/conceptual aspects of Computer Science and AI and would like to apply my knowledge to Cognitive Behavioral Neuroscience in the field of Healthcare AI. I am most familiar with frontend development but am current expanding my knowledge in machine learning, robotics, and deep learning models.
 
 I absolutely love iced tea, boba, math, sketching, and reading murder mystery/thrill novels. My dream morning routine is to WILLINGLY wake up early, head to my favorite cafe, Pavement Coffeehouse or Philz Coffee, buy a 16 oz unsweetened black iced tea, and reread the books from the King and Maxwell series.
 
