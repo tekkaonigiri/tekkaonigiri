@@ -4,11 +4,11 @@
 
 ## NICOLE FONG
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=14&pause=1000&color=A9B7C6&center=true&vCenter=true&width=500&lines=AI+%2B+Cognitive+Neuroscience+%40+UCSD;building+things+that+think;from+scratch%2C+always)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=14&pause=1000&color=A9B7C6&center=true&vCenter=true&width=500&lines=AI+and+Cognitive+Behavioral+Neuroscience+%40+UCSD)](https://git.io/typing-svg)
 
 <br>
 
-[portfolio](https://nicolefong.tech/) &nbsp;&nbsp;·&nbsp;&nbsp; [linkedin](https://www.linkedin.com/in/coleng/) &nbsp;&nbsp;·&nbsp;&nbsp; [email](mailto:csaputra@ucsd.edu)
+[portfolio](https://nicolefong.tech/) &nbsp;&nbsp;·&nbsp;&nbsp; [linkedin](https://www.linkedin.com/in/coleng/) &nbsp;&nbsp;·&nbsp;&nbsp; [email](mailto:nicolefongjw@gmail.com)
 
 <br>
 
@@ -30,19 +30,19 @@ Always an iced tea nearby. Always a problem worth solving.
 
 <br>
 
-**NotewiseAI** · iOS app in Swift that reads handwritten notes through PencilKit and Apple Vision OCR, then sends the text to Claude and gives you back a summary, corrections, and a quiz. I made it because writing notes and actually retaining them are two very different things.
-
-<br>
-
-**StudyStream** · A focus timer in Swift with Pomodoro countdowns and a built-in ambient music player. Forest sounds, sedative tracks. I built it before I ever touched ML and it taught me more about state management and UX than any tutorial.
-
-<br>
-
-**[Triton Robotics Autonomy](https://github.com/tekkaonigiri/TR-Autonomy)** · Autonomy software for a real competition robot. ROS2 on a Jetson, YOLOX-based vision, hardware-in-the-loop testing. Most of my time here is spent on the gap between working in simulation and working on the actual robot.
+**Capstone — Sentry Symbol Detection & Pose Estimation** · Computer vision pipeline for detecting and contouring sentry symbols on a competition robot, using solvePnP for 3D pose estimation. Built for Triton Robotics @ UCSD as part of the autonomy team's fall capstone.
 
 <br>
 
 **[TESC Portal](https://portal.tescatucsd.org/)** · Membership portal for TESC @ UCSD built in React and Supabase. Role-based views, event RSVP and attendance tracking, club bulletin board. Real users, deployed and in use.
+
+<br>
+
+**[Pet Hub](https://wic-project-pet-smart.vercel.app/)** · Interactive educational platform for pet owners built with WIC Project Teams @ UCSD. I built the core site architecture in Next.js, created custom interactive anatomy features for the cat and dog pages, and handled the full deployment pipeline to Vercel. ([repo](https://github.com/tekkaonigiri/WIC-Project-1) · [write-up](https://nicolefong-colie.netlify.app/post/wic-pets/))
+
+<br>
+
+**[StudyStream](https://github.com/tekkaonigiri/StudyStream)** · A focus timer in Swift with Pomodoro countdowns and a built-in ambient music player. Forest sounds, sedative tracks. I built it before I ever touched ML and it taught me more about state management and UX than any tutorial.
 
 <br>
 
