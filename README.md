@@ -4,7 +4,7 @@
 
 ## NICOLE FONG
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/demo/?font=Fira+Code&size=14&pause=1000&color=A9B7C6&center=true&vCenter=true&width=500&lines=AI+%2B+Cognitive+Neuroscience+%40+UCSD;building+things+that+think;from+scratch%2C+always)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=14&pause=1000&color=A9B7C6&center=true&vCenter=true&width=500&lines=AI+%2B+Cognitive+Neuroscience+%40+UCSD;building+things+that+think;from+scratch%2C+always)](https://git.io/typing-svg)
 
 <br>
 
@@ -14,11 +14,11 @@
 
 </div>
 
-I care a lot about understanding *why* things work, not just that they do.
+First-year AI major at UCSD drawn to the mathematical and conceptual sides of CS. Where I want to take that is Healthcare AI, specifically applying it to Cognitive Behavioral Neuroscience. I'm passionate about building things that genuinely help people and give back to the communities around me.
 
-That's probably why I ended up building a YOLO object detection model completely from scratch — every convolutional layer, every term in the multipart loss function, the square-root WH scaling and all. Training a model with `model.fit()` on someone else's architecture felt like reading a summary instead of the book. So I read the paper and built the thing myself.
+Right now I'm building AI reasoning pipelines, expanding into deep learning, and working on robotics autonomy with Triton Robotics. Outside of building, I mentor student developers through ACM and publish writing on UX and product decisions that deserve more attention.
 
-I'm a first-year AI major drawn toward the overlap between cognitive neuroscience and machine learning — specifically how biological memory and neural network learning actually mirror each other. I want to work in healthcare AI eventually. The stakes feel real there.
+Always an iced tea nearby. Always a problem worth solving.
 
 <br>
 
@@ -26,23 +26,23 @@ I'm a first-year AI major drawn toward the overlap between cognitive neuroscienc
 
 <br>
 
-**[Fruit Detector](https://github.com/tekkaonigiri/acmai-fruitdetector-fa25)** — YOLO object detection from scratch in PyTorch, built with ACM AI @ UCSD. No pretrained weights, no off-the-shelf detection heads — just 24 conv layers, a hand-written multipart loss function, and a 7×7 spatial grid that maps pixels to predictions. Runs on a live webcam feed. ([write-up](https://nicolefong.tech/post/fruit-detector-aiproj/))
+**[Fruit Detector](https://github.com/tekkaonigiri/acmai-fruitdetector-fa25)** · YOLO object detection built from scratch in PyTorch with ACM AI @ UCSD. No pretrained weights, no borrowed architecture. 24 conv layers, a hand-written loss function, and a 7x7 spatial grid. Runs live on a webcam. ([write-up](https://nicolefong.tech/post/fruit-detector-aiproj/))
 
 <br>
 
-**NotewiseAI** — iOS app built in Swift that reads your handwritten notes through PencilKit + Apple Vision OCR, sends the extracted text to Claude, and returns a summary, a corrections list, and a quiz. The gap between writing notes and actually retaining them bothered me, so I made something to close it.
+**NotewiseAI** · iOS app in Swift that reads handwritten notes through PencilKit and Apple Vision OCR, then sends the text to Claude and gives you back a summary, corrections, and a quiz. I made it because writing notes and actually retaining them are two very different things.
 
 <br>
 
-**StudyStream** — A focus timer (Swift) with Pomodoro-style countdowns and a built-in ambient music player — forest sounds, sedative tracks, all bundled in. Built before I ever touched ML. It's the kind of project that teaches you more about state management and UX than any tutorial ever could.
+**StudyStream** · A focus timer in Swift with Pomodoro countdowns and a built-in ambient music player. Forest sounds, sedative tracks. I built it before I ever touched ML and it taught me more about state management and UX than any tutorial.
 
 <br>
 
-**[Triton Robotics Autonomy](https://github.com/tekkaonigiri/TR-Autonomy)** — Writing autonomy software for a real competition robot. ROS2 nodes on a Jetson, YOLOX-based vision pipeline, hardware-in-the-loop testing. The gap between "works on my machine" and "works on the actual robot" is where I spend most of my time.
+**[Triton Robotics Autonomy](https://github.com/tekkaonigiri/TR-Autonomy)** · Autonomy software for a real competition robot. ROS2 on a Jetson, YOLOX-based vision, hardware-in-the-loop testing. Most of my time here is spent on the gap between working in simulation and working on the actual robot.
 
 <br>
 
-**[TESC Portal](https://portal.tescatucsd.org/)** — Membership portal for TESC @ UCSD built in React + Supabase. Role-based views, event RSVP and attendance tracking, club bulletin board. Real users, real data, deployed and in use.
+**[TESC Portal](https://portal.tescatucsd.org/)** · Membership portal for TESC @ UCSD built in React and Supabase. Role-based views, event RSVP and attendance tracking, club bulletin board. Real users, deployed and in use.
 
 <br>
 
