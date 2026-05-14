@@ -8,17 +8,17 @@
 
 <br>
 
-[portfolio](https://nicolefong.tech/) &nbsp;&nbsp;·&nbsp;&nbsp; [linkedin](https://www.linkedin.com/in/coleng/) &nbsp;&nbsp;·&nbsp;&nbsp; [email](mailto:nicolefongjw@gmail.com)
+[portfolio](https://nicolefong.tech/) &nbsp;&nbsp;·&nbsp;&nbsp; [linkedin](https://www.linkedin.com/in/coleng/) &nbsp;&nbsp;·&nbsp;&nbsp; [email](mailto:nifong@ucsd.edu)
 
 <br>
 
 </div>
 
-First-year AI major at UCSD drawn to the mathematical and conceptual sides of CS. Where I want to take that is Healthcare AI, specifically applying it to Cognitive Behavioral Neuroscience. I'm passionate about building things that genuinely help people and give back to the communities around me.
+First-year AI major at UCSD drawn to the mathematical and conceptual sides of CS. Where I want to take that is Healthcare AI, specifically applying it to Cognitive Behavioral Neuroscience. I'm passionate about building things that genuinely help people and give back to the communities around me.
 
-Right now I'm building AI reasoning pipelines, expanding into deep learning, and working on robotics autonomy with Triton Robotics. Outside of building, I mentor student developers through ACM and publish writing on UX and product decisions that deserve more attention.
+Right now I'm applying RLHF to evaluate AI generation, improving competition robotics autonomy, and exploring image segmentation for disasters. Outside of building, I mentor student developers through ACM and present workshops with digestible information about technology/AI.
 
-Always an iced tea nearby. Always a problem worth solving.
+Always an iced tea nearby. Always a problem worth solving. :)
 
 <br>
 
