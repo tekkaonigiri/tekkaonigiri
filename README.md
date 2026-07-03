@@ -4,7 +4,7 @@
 
 ## About
 
-I am a student at UC San Diego, class of 2029, double majoring in Artificial Intelligence and Cognitive Behavioral Neuroscience. Right now I work as an AI/ML intern at ChakraTech, a biotech AI startup, where I build machine learning models for polymer informatics and sustainable materials discovery. I like thinking about the parallels between how the brain is wired and how we design AI models, and both majors feed that. Outside of internships I build projects fast, usually under a deadline, and I hold two leadership roles on campus. I care more about shipping something that works than talking about what I plan to build.
+I am a student at UC San Diego, class of 2029, double majoring in Artificial Intelligence and Cognitive Behavioral Neuroscience. Right now I work as an AI/ML intern at ChakraTech, a biotech AI startup, where I build machine learning models for polymer informatics and sustainable materials discovery. I like thinking about the parallels between how the brain is wired and how we design AI models, and both majors feed that. Outside of internships I build projects fast, usually under a deadline, and I hold three leadership roles on campus. I care more about shipping something that works than talking about what I plan to build.
 
 ## Current Work
 
