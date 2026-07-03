@@ -1,72 +1,25 @@
-<div align="center">
+# Nicole Fong
 
-<br>
+<!-- guys i think i did something -->
 
-## NICOLE FONG
+## About
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=14&pause=1000&color=A9B7C6&center=true&vCenter=true&width=500&lines=AI+and+Cognitive+Behavioral+Neuroscience+%40+UCSD)](https://git.io/typing-svg)
+I am a student at UC San Diego, class of 2029, double majoring in Artificial Intelligence and Cognitive Behavioral Neuroscience. Right now I work as an AI/ML intern at ChakraTech, a biotech AI startup, where I build machine learning models for polymer informatics and sustainable materials discovery. I like thinking about the parallels between how the brain is wired and how we design AI models, and both majors feed that. Outside of internships I build projects fast, usually under a deadline, and I hold two leadership roles on campus. I care more about shipping something that works than talking about what I plan to build.
 
-<br>
+## Current Work
 
-[portfolio](https://nicolefong.tech/) &nbsp;&nbsp;·&nbsp;&nbsp; [linkedin](https://www.linkedin.com/in/coleng/) &nbsp;&nbsp;·&nbsp;&nbsp; [email](mailto:nifong@ucsd.edu)
+- ChakraTech: AI/ML intern building models for polymer informatics and sustainable materials discovery.
+- Break Through Tech AI/ML Fellow at Cornell Tech, starting Fall 2026.
+- Co-President of Triton Engineering Student Council, AI Events Director at ACM AI at UCSD.
 
-<br>
+## Selected Projects
 
-</div>
+- **Straightline** [I WILL FILL IN LINKS] — An ADA compliance platform. Won 1st place and Best Use of Browser Use at DiamondHacks 2026 out of 400+ participants.
+- **ECG Monitor** [I WILL FILL IN LINKS] — A device and software pipeline for reading and monitoring ECG signals.
+- **Fruit Recognition CNN** [I WILL FILL IN LINKS] — A convolutional neural network trained to classify fruit images.
 
-First-year AI major at UCSD drawn to the mathematical and conceptual sides of CS. Where I want to take that is Healthcare AI, specifically applying it to Cognitive Behavioral Neuroscience. I'm passionate about building things that genuinely help people and give back to the communities around me.
+## Contact
 
-Right now I'm applying RLHF to evaluate AI generation, improving competition robotics autonomy, and exploring image segmentation for disasters. Outside of building, I mentor student developers through ACM and present workshops with digestible information about technology/AI.
-
-Always an iced tea nearby. Always a problem worth solving. :)
-
-<br>
-
-**· · · things i've built · · ·**
-
-<br>
-
-**[Fruit Detector](https://github.com/tekkaonigiri/acmai-fruitdetector-fa25)** · YOLO object detection built from scratch in PyTorch with ACM AI @ UCSD. No pretrained weights, no borrowed architecture. 24 conv layers, a hand-written loss function, and a 7x7 spatial grid. Runs live on a webcam. ([write-up](https://nicolefong.tech/post/fruit-detector-aiproj/))
-
-<br>
-
-**Capstone — Sentry Symbol Detection & Pose Estimation** · Computer vision pipeline for detecting and contouring sentry symbols on a competition robot, using solvePnP for 3D pose estimation. Built for Triton Robotics @ UCSD as part of the autonomy team's fall capstone.
-
-<br>
-
-**[TESC Portal](https://portal.tescatucsd.org/)** · Membership portal for TESC @ UCSD built in React and Supabase. Role-based views, event RSVP and attendance tracking, club bulletin board. Real users, deployed and in use.
-
-<br>
-
-**[Pet Hub](https://wic-project-pet-smart.vercel.app/)** · Interactive educational platform for pet owners built with WIC Project Teams @ UCSD. I built the core site architecture in Next.js, created custom interactive anatomy features for the cat and dog pages, and handled the full deployment pipeline to Vercel. ([repo](https://github.com/tekkaonigiri/WIC-Project-1) · [write-up](https://nicolefong-colie.netlify.app/post/wic-pets/))
-
-<br>
-
-**[StudyStream](https://github.com/tekkaonigiri/StudyStream)** · A focus timer in Swift with Pomodoro countdowns and a built-in ambient music player. Forest sounds, sedative tracks. I built it before I ever touched ML and it taught me more about state management and UX than any tutorial.
-
-<br>
-
-> currently getting better at: API design, performance engineering, and the systems-level thinking that separates code that works from code that *scales*
-
-<br>
-
-`python` &nbsp; `pytorch` &nbsp; `swift` &nbsp; `javascript / react` &nbsp; `ros2` &nbsp; `c++` &nbsp; `java`
-
-<br>
-
-<div align="center">
-
-<table border="0">
-<tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=tekkaonigiri&theme=dark&hide_border=true&include_all_commits=true&count_private=true&hide_title=true" /></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tekkaonigiri&theme=dark&hide_border=true&layout=compact&hide_title=true" /></td>
-</tr>
-</table>
-
-<br>
-
-*"just keep swimming"*
-
-<br>
-
-</div>
+- Portfolio: [nicolefong.tech](https://nicolefong.tech/)
+- LinkedIn: [coleng](https://www.linkedin.com/in/coleng/)
+- Email: [nicolefongjw@gmail.com](mailto:nicolefongjw@gmail.com)
