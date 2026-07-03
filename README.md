@@ -14,9 +14,9 @@ I am a student at UC San Diego, class of 2029, double majoring in Artificial Int
 
 ## Selected Projects
 
-- **Straightline** [I WILL FILL IN LINKS] — An ADA compliance platform. Won 1st place and Best Use of Browser Use at DiamondHacks 2026 out of 400+ participants.
-- **ECG Monitor** [I WILL FILL IN LINKS] — A device and software pipeline for reading and monitoring ECG signals.
-- **Fruit Recognition CNN** [I WILL FILL IN LINKS] — A convolutional neural network trained to classify fruit images.
+- **Straightline** [github repo](https://github.com/tekkaonigiri/straightline) — An ADA compliance platform. Won 1st place and Best Use of Browser Use at DiamondHacks 2026 out of 400+ participants.
+- **ECG Monitor** [github repo](https://github.com/Jaerinx/ecg-monitor-ui) — A device and software pipeline for reading and monitoring ECG signals.
+- **Fruit Recognition CNN** [github repo](https://github.com/tekkaonigiri/acmai-fruitdetector-fa25) — A convolutional neural network trained to classify fruit images.
 
 ## Contact
 
